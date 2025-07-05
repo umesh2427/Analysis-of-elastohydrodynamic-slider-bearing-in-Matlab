@@ -28,13 +28,7 @@ This project models a slider bearing where the lubricant film behaves elastohydr
 - **Lubricant properties**: viscosity, temperature  
 - **Load conditions**: range of applied loads, surface stiffness variations
 
-## 📈 Getting Started
 
-1. Clone the repository  
-2. Open `main.m` in MATLAB  
-3. Modify input parameters (geometry, load range, material stiffness)  
-4. Run the simulation  
-5. View outputs in generated figures and contour plots
 
 ## 🧠 Key Results
 
